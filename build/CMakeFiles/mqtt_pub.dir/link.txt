@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/mqtt_pub.dir/src/tutorial_pubsub_mqtt_publish.c.o  -o mqtt_pub  ../open62541/libopen62541.a -lpthread 

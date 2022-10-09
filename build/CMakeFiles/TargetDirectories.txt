@@ -1,0 +1,3 @@
+/home/inc/build/CMakeFiles/rebuild_cache.dir
+/home/inc/build/CMakeFiles/edit_cache.dir
+/home/inc/build/CMakeFiles/mqtt_pub.dir
